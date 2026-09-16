@@ -85,7 +85,7 @@ window.DECK = window.DECK || [];
             <text x="305" y="210" font-size="13" font-weight="bold" fill="#334155" text-anchor="middle">直方圖 / 條形圖 (對比數量)</text>
           `);
         },
-        caption: '扇形統計圖所有圓心角之和等於 360°，所有百分比之和為 100%。',
+        caption: '扇形統計圖所有圓心角之和等於 $360^\\circ$，所有百分比之和為 $100\\%$。',
         example: {
           q: '某班有 50 名學生，在一次體育測試中有 15 人達到優秀。若繪製扇形統計圖，優秀人數所對應的圓心角是多少度？',
           steps: [

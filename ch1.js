@@ -51,7 +51,7 @@ window.DECK = window.DECK || [];
       },
       {
         sec: '7.2', secName: '平行線的判定與性質',
-        title: '同位角相等、內錯角相等、同旁內角互補 ⇔ 兩直線平行',
+        title: '同位角相等、內錯角相等、同旁內角互補 $\\iff$ 兩直線平行',
         points: [
           '<b>平行線判定</b>：同位角相等 $\\implies a \\parallel b$；內錯角相等 $\\implies a \\parallel b$；同旁內角互補 $\\implies a \\parallel b$。',
           '<b>平行線性質</b>：兩直線平行 $\\implies$ 同位角相等；兩直線平行 $\\implies$ 內錯角相等；兩直線平行 $\\implies$ 同旁內角互補。',
